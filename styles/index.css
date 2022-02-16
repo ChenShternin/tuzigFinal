@@ -13,8 +13,8 @@ html {
 
 @font-face {
     font-family: 'OS Luizi Round_FFC';
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
+    src: url('..fonts/OSLuiziRound_FFC-Regular.ttf');
+    src: url('..fonts/OSLuiziRound_FFC-Regular.eot');
 }
 
 font-face {
