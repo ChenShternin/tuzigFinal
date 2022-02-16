@@ -1,14 +1,20 @@
 ﻿/*General Settings*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+
+@font-face {
+    font-family: 'Rubik', sans-serif;
+}
+
 html {
     scroll-behavior: smooth;
 }
 
-font-face {
+@font-face {
     font-family: 'OS Luizi Round_FFC';
-}
-
-font-face {
-    font-family: 'Rubik';
+    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
+    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
 }
 
 a:focus {

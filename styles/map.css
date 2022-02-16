@@ -1,15 +1,20 @@
 ﻿/*general settings*/
 
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+
+@font-face {
+    font-family: 'Rubik', sans-serif;
+}
+
 html {
     scroll-behavior: smooth;
 }
 
-font-face {
-    font-family: Rubik;
-}
-
-font-face {
+@font-face {
     font-family: 'OS Luizi Round_FFC';
+    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
+    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
 }
 
 font-face {
