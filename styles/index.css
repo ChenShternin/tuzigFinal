@@ -12,7 +12,7 @@ html {
 
 @font-face {
     font-family: 'OS Luizi Round_FFC';
-    src: url('..fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
+    src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
 font-face {
