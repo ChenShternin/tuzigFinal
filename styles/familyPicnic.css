@@ -12,9 +12,8 @@ html {
 }
 
 @font-face {
-    font-family: 'OS Luizi Round_FFC';
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
+    font-family: 'luizi';
+    src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
 a:focus {
@@ -120,7 +119,7 @@ header {
 h2 {
     margin-top: 80px;
     text-align: center;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 45px;
 }
 
@@ -308,7 +307,7 @@ video {
 }
 
 #maOrzim > .title > h3 {
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 40px;
     color: #F5727B;
     text-align: right;
@@ -447,7 +446,7 @@ video {
 }
 
 #try div {
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 60px;
     text-align: center;
 }
@@ -467,7 +466,7 @@ video {
 
 #finalSnc {
     text-align: center;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 25px;
     margin-top:400px;
 }

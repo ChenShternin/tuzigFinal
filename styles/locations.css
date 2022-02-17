@@ -12,9 +12,8 @@ html {
 }
 
 @font-face {
-    font-family: 'OS Luizi Round_FFC';
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
+    font-family: 'luizi';
+    src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
 a:focus {
@@ -155,9 +154,8 @@ iframe {
 }
 
 h1 {
- font-family: 'OS Luizi Round_FFC';
+font-family: 'luizi';
  text-align: center;
- font-family: 'OS Luizi Round_FFC';
  font-size: 60px;
 }
 
@@ -169,12 +167,12 @@ h1 {
 
 h2 {
     text-align: center;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 55px;
 }
 
 h3 {
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 40px;
 }
 
@@ -316,7 +314,7 @@ span {
     width: auto;
     color: black;
     font-size: 30px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     border-radius: 0 3px 3px 0;
     user-select: none;
     -webkit-user-select: none;
@@ -534,7 +532,7 @@ ul p {
     z-index: 1;
     width: 800px;
     margin-top: 380px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     font-size: 30px;
     margin-right: 450px;
@@ -550,7 +548,7 @@ ul p {
     z-index: 1;
     width: 800px;
     margin-top: 380px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     font-size: 30px;
     margin-right: 200px;
@@ -566,7 +564,7 @@ ul p {
     z-index: 1;
     width: 800px;
     margin-top: 380px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     font-size: 30px;
     margin-right: -20px;
@@ -582,7 +580,7 @@ ul p {
     z-index: 1;
     width: 800px;
     margin-top: 380px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     font-size: 30px;
     margin-right: -370px;
@@ -598,7 +596,7 @@ ul p {
     z-index: 1;
     width: 800px;
     margin-top: 380px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     font-size: 30px;
     margin-right: -520px;

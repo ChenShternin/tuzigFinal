@@ -12,9 +12,8 @@ html {
 }
 
 @font-face {
-    font-family: 'OS Luizi Round_FFC';
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
+    font-family: 'luizi';
+    src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
 a:focus {
@@ -111,13 +110,13 @@ header {
 /*content settings*/ 
 
 h1 {
-font-family: 'OS Luizi Round_FFC';
+font-family: 'luizi';
 }
 
 h2 {
     margin-top: 80px;
     text-align: center;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 45px;
 }
 

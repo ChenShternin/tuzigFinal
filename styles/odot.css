@@ -12,9 +12,8 @@ html {
 }
 
 @font-face {
-    font-family: 'OS Luizi Round_FFC';
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
+    font-family: 'luizi';
+    src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
 body {
@@ -136,28 +135,28 @@ header {
     font-size: 30px;
     padding: 50px;
     margin-top:-50px;
-    font-family:'OS Luizi Round_FFC';
+    font-family: 'luizi';
 }
 
 h1 {
     font-size: 40px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     text-align:center;
 }
 
 h2 {
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
 
 }
 
 h3 {
     font-size: 20px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
 }
 
 span {
     font-weight: bold;
-    font-family:'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size:27px;
    margin-left:5px;
 }

@@ -15,10 +15,6 @@ html {
     src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
-font-face {
-    font-family: 'Times New Roman';
-}
-
 body {
     padding-top: 30px;
     direction: rtl;

@@ -12,9 +12,8 @@ html {
 }
 
 @font-face {
-    font-family: 'OS Luizi Round_FFC';
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.ttf');
-    src: url('..luizi embed/OSLuiziRound_FFC-Regular.eot');
+    font-family: 'luizi';
+    src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
 font-face {
@@ -128,7 +127,7 @@ header {
     h1 {
         margin-top: 140px;
         font-size: 40px;
-        font-family: 'OS Luizi Round_FFC';
+        font-family: 'luizi';
     }
 
 #mapPages {
