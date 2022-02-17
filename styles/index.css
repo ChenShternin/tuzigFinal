@@ -11,7 +11,7 @@ html {
 }
 
 @font-face {
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     src: url('../fonts/OSLuiziRound_FFC-Regular.woff2') format('woff2');
 }
 
@@ -144,7 +144,7 @@ video {
 
 h1 {
     text-align: center;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-size: 60px;
 }
 
@@ -299,7 +299,7 @@ p span {
 }
 
 .text span {
-    font-family:'OS Luizi Round_FFC';
+    font-family:'luizi';
     font-size:50px;
 }
 
@@ -401,7 +401,7 @@ p span {
 }
 
     .text1 span {
-        font-family: 'OS Luizi Round_FFC';
+        font-family: 'luizi';
         font-size: 50px;
     }
 
@@ -552,7 +552,7 @@ ul p {
     z-index: 1;
     width: 900px;
     margin-top: 370px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     font-size: 30px;
     margin-right: 170px;
@@ -568,7 +568,7 @@ ul p {
     z-index: 1;
     width: 900px;
     margin-top: 370px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     font-size: 30px;
     margin-right: -50px;
@@ -584,7 +584,7 @@ ul p {
     z-index: 1;
     width: 900px;
     margin-top: 370px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     margin-right: -320px;
 }
@@ -599,7 +599,7 @@ ul p {
     z-index: 1;
     width: 900px;
     margin-top: 370px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     margin-right: -560px;
 }
@@ -614,7 +614,7 @@ ul p {
     z-index: 1;
     width: 1000px;
     margin-top: 370px;
-    font-family: 'OS Luizi Round_FFC';
+    font-family: 'luizi';
     font-weight: 400;
     margin-right: -890px;
 }
